@@ -1,5 +1,13 @@
 # Saad Masroor – Curiosity Lab
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+
 Welcome! 👋 This repository is a collection of my personal projects, experiments, and learning exercises — a place where I **build to understand, not just to finish**.  
 
 I focus on creating **tools that last, automating repetition, and modernizing systems**, all while exploring how things work under the hood. This lab showcases projects ranging from backend systems to algorithm experiments, full-stack applications, and data pipelines.
