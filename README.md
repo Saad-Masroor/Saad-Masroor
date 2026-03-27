@@ -48,7 +48,6 @@ Some representative work:
 
 - Clone the repository to explore projects and experiments  
 - Each project usually has its own folder with a README explaining setup and usage  
-- Most code is **educational or experimental**, not production-ready  
 
 ---
 
